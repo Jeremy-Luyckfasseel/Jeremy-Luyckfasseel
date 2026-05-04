@@ -22,8 +22,9 @@
 
 <br/>
 
-```bash
-$ whoami
+```
+  $ whoami
+
   ┌──────────────────────────────────────────────────────────────────────┐
   │  NAME   →  Jeremy Luyckfasseel                                       │
   │  ROLE   →  ERP Developer & System Integrator                         │
