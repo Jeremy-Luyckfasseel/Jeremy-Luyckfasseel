@@ -22,36 +22,11 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td>👤&nbsp;<b>NAME</b></td>
-    <td>Jeremy Luyckfasseel</td>
-  </tr>
-  <tr>
-    <td>💼&nbsp;<b>ROLE</b></td>
-    <td>ERP Developer &amp; System Integrator</td>
-  </tr>
-  <tr>
-    <td>📍&nbsp;<b>BASE</b></td>
-    <td>Belgium</td>
-  </tr>
-  <tr>
-    <td>🎯&nbsp;<b>FOCUS</b></td>
-    <td>Odoo ERP customization &amp; module development</td>
-  </tr>
-  <tr>
-    <td>🛠️&nbsp;<b>CRAFT</b></td>
-    <td>Third-party integrations &amp; automated workflows</td>
-  </tr>
-  <tr>
-    <td>✨&nbsp;<b>STYLE</b></td>
-    <td>Clean architecture · Domain-driven design</td>
-  </tr>
-  <tr>
-    <td>🚀&nbsp;<b>GOAL</b></td>
-    <td>Transform business complexity into elegant solutions</td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=58A6FF&background=00000000&multiline=true&repeat=false&width=700&height=210&lines=NAME+++%E2%86%92++Jeremy+Luyckfasseel;ROLE+++%E2%86%92++ERP+Developer+%26+System+Integrator;BASE+++%E2%86%92++Belgium;FOCUS++%E2%86%92++Odoo+ERP+Customization+%26+Module+Dev;CRAFT++%E2%86%92++Third-party+Integrations+%26+Automated+Workflows;STYLE++%E2%86%92++Clean+Architecture+%C2%B7+Domain-driven+Design;GOAL+++%E2%86%92++Transform+Complexity+into+Elegant+Solutions" alt="About Me" />
+
+</div>
 
 <br/>
 
