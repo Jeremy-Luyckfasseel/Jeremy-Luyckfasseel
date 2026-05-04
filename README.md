@@ -6,12 +6,12 @@
 
 <br/>
 
-[![Status](https://img.shields.io/badge/Status-Open%20for%20Opportunities-22c55e?style=flat-square&labelColor=161b22)](https://www.linkedin.com/in/jeremy-luyckfasseel-97244a32b)
-[![Location](https://img.shields.io/badge/Location-Belgium-3b82f6?style=flat-square&labelColor=161b22)](https://en.wikipedia.org/wiki/Belgium)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremy%20Luyckfasseel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-luyckfasseel-97244a32b)
-[![Email](https://img.shields.io/badge/Email-luyckfasseel.jeremy%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luyckfasseel.jeremy@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/Jeremy-Luyckfasseel?label=Followers&style=flat-square&logo=github&labelColor=161b22&color=58A6FF)](https://github.com/Jeremy-Luyckfasseel?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Jeremy-Luyckfasseel&style=flat-square&color=58A6FF&label=Profile+Views)](https://github.com/Jeremy-Luyckfasseel)
+[![Status](https://img.shields.io/badge/Open%20for%20Opportunities-22c55e?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jeremy-luyckfasseel-97244a32b)
+[![Location](https://img.shields.io/badge/Belgium-3b82f6?style=for-the-badge&logo=googlemaps&logoColor=white)](https://en.wikipedia.org/wiki/Belgium)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-luyckfasseel-97244a32b)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luyckfasseel.jeremy@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/Jeremy-Luyckfasseel?label=Followers&style=for-the-badge&logo=github&color=58A6FF)](https://github.com/Jeremy-Luyckfasseel?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jeremy-Luyckfasseel&style=for-the-badge&color=58A6FF&label=Profile+Views)](https://github.com/Jeremy-Luyckfasseel)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=58A6FF&background=00000000&multiline=true&repeat=false&width=700&height=210&lines=NAME+++%E2%86%92++Jeremy+Luyckfasseel;ROLE+++%E2%86%92++ERP+Developer+%26+System+Integrator;BASE+++%E2%86%92++Belgium;FOCUS++%E2%86%92++Odoo+ERP+Customization+%26+Module+Dev;CRAFT++%E2%86%92++Third-party+Integrations+%26+Automated+Workflows;STYLE++%E2%86%92++Clean+Architecture+%C2%B7+Domain-driven+Design;GOAL+++%E2%86%92++Transform+Complexity+into+Elegant+Solutions" alt="About Me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=400&pause=150&color=58A6FF&background=00000000&multiline=true&repeat=false&width=700&height=210&lines=NAME+++%E2%86%92++Jeremy+Luyckfasseel;ROLE+++%E2%86%92++ERP+Developer+%26+System+Integrator;BASE+++%E2%86%92++Belgium;FOCUS++%E2%86%92++Odoo+ERP+Customization+%26+Module+Dev;CRAFT++%E2%86%92++Third-party+Integrations+%26+Automated+Workflows;STYLE++%E2%86%92++Clean+Architecture+%C2%B7+Domain-driven+Design;GOAL+++%E2%86%92++Transform+Complexity+into+Elegant+Solutions" alt="About Me" />
 
 </div>
 
