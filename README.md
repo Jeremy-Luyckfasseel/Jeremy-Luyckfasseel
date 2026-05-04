@@ -22,20 +22,36 @@
 
 <br/>
 
-```
-  $ whoami
-
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │  NAME   →  Jeremy Luyckfasseel                                       │
-  │  ROLE   →  ERP Developer & System Integrator                         │
-  │  BASE   →  Belgium                                                   │
-  │                                                                      │
-  │  FOCUS  →  Odoo ERP customization & module development               │
-  │  CRAFT  →  Third-party integrations & automated workflows            │
-  │  STYLE  →  Clean architecture · Domain-driven design                 │
-  │  GOAL   →  Transform business complexity into elegant solutions      │
-  └──────────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td>👤&nbsp;<b>NAME</b></td>
+    <td>Jeremy Luyckfasseel</td>
+  </tr>
+  <tr>
+    <td>💼&nbsp;<b>ROLE</b></td>
+    <td>ERP Developer &amp; System Integrator</td>
+  </tr>
+  <tr>
+    <td>📍&nbsp;<b>BASE</b></td>
+    <td>Belgium</td>
+  </tr>
+  <tr>
+    <td>🎯&nbsp;<b>FOCUS</b></td>
+    <td>Odoo ERP customization &amp; module development</td>
+  </tr>
+  <tr>
+    <td>🛠️&nbsp;<b>CRAFT</b></td>
+    <td>Third-party integrations &amp; automated workflows</td>
+  </tr>
+  <tr>
+    <td>✨&nbsp;<b>STYLE</b></td>
+    <td>Clean architecture · Domain-driven design</td>
+  </tr>
+  <tr>
+    <td>🚀&nbsp;<b>GOAL</b></td>
+    <td>Transform business complexity into elegant solutions</td>
+  </tr>
+</table>
 
 <br/>
 
