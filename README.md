@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+enterprise-grade+ERP+solutions+%F0%9F%8F%97%EF%B8%8F;Automating+complex+business+workflows+%E2%9A%99%EF%B8%8F;Clean+architecture+meets+business+intelligence+%F0%9F%8E%AF;Odoo+%7C+Python+%7C+System+Integration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Building+enterprise-grade+ERP+solutions;Automating+complex+business+workflows;Clean+architecture+meets+business+intelligence;Odoo+%7C+Python+%7C+System+Integration" alt="Typing SVG" />
 
 <br/>
 
 [![Status](https://img.shields.io/badge/Status-Open%20for%20Opportunities-22c55e?style=flat-square&labelColor=161b22)](https://www.linkedin.com/in/jeremy-luyckfasseel-97244a32b)
-[![Location](https://img.shields.io/badge/📍-Belgium-3b82f6?style=flat-square&labelColor=161b22)](https://en.wikipedia.org/wiki/Belgium)
+[![Location](https://img.shields.io/badge/Location-Belgium-3b82f6?style=flat-square&labelColor=161b22)](https://en.wikipedia.org/wiki/Belgium)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremy%20Luyckfasseel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-luyckfasseel-97244a32b)
 [![Email](https://img.shields.io/badge/Email-luyckfasseel.jeremy%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luyckfasseel.jeremy@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/Jeremy-Luyckfasseel?label=Followers&style=flat-square&logo=github&labelColor=161b22&color=58A6FF)](https://github.com/Jeremy-Luyckfasseel?tab=followers)
@@ -27,7 +27,7 @@ $ whoami
   ┌──────────────────────────────────────────────────────────────────────┐
   │  NAME   →  Jeremy Luyckfasseel                                       │
   │  ROLE   →  ERP Developer & System Integrator                         │
-  │  BASE   →  Belgium 🇧🇪                                               │
+  │  BASE   →  Belgium                                                   │
   │                                                                      │
   │  FOCUS  →  Odoo ERP customization & module development               │
   │  CRAFT  →  Third-party integrations & automated workflows            │
@@ -57,7 +57,7 @@ $ whoami
 
 <br/>
 
-### [⚡ Odoo Event POS System](https://github.com/IntegrationProject-Groep1/Kassa)
+### [Odoo Event POS System](https://github.com/IntegrationProject-Groep1/Kassa)
 
 > A robust, asynchronous Point of Sale solution built for large-scale event management.
 
@@ -100,9 +100,9 @@ $ whoami
 
 <br/>
 
-- 🧠 **Business Mindset** — I design systems that solve actual business problems, not just write code.
-- 🔩 **ERP Expertise** — Specialized in Odoo module development, customization, and third-party integrations.
-- 🏛️ **Clean Architecture** — Committed to separation of concerns, maintainability, and scalable design.
+- **Business Mindset** — I design systems that solve actual business problems, not just write code.
+- **ERP Expertise** — Specialized in Odoo module development, customization, and third-party integrations.
+- **Clean Architecture** — Committed to separation of concerns, maintainability, and scalable design.
 
 <br/>
 
